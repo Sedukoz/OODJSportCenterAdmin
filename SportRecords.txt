@@ -1,0 +1,10 @@
+ID: SP201 // Name: Football // Centre: KLCC // Fee: 3,000 //
+ID: SP202 // Name: Swimming // Centre: Bukit Jalil // Fee: 3,500 //
+ID: SP203 // Name: Badminton // Centre: KLCC // Fee: 1,000 //
+ID: SP204 // Name: Archery // Centre: Bukit Jalil // Fee: 4,500 //
+ID: SP205 // Name: Gymnastics // Centre: Damansara // Fee: 5,000 //
+ID: SP206 // Name: Volleyball // Centre: Hartamas // Fee: 1,500 //
+ID: SP207 // Name: Basketball // Centre: Hartamas // Fee: 2,000 //
+ID: SP208 // Name: Cricket // Centre: Damansara // Fee: 2,500 //
+ID: SP209 // Name: Tennis // Centre: KLCC // Fee: 4,500 //
+ID: SP210 // Name: Table Tennis // Centre: Bukit Jalil // Fee: 1,000 //

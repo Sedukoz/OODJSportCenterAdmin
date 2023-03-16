@@ -1,0 +1,10 @@
+Name: Raja Zarifah | Password: pass123 | ID: ST001 | Phone Number: 0123445678 | Address: Damansara | Sport: Archery
+Name: Ahmed Osman | Password: lazadaluvr | ID: ST002 | Phone Number: 0122885469 | Address: Bukit Jalil | Sport: Football
+Name: Jennifer Liew | Password: jlo12 | ID: ST003 | Phone Number: 0114668979 | Address: Ampang | Sport: Volleyball
+Name: Mark Ruffalo | Password: thehulk | ID: ST004 | Phone Number: 0129297465 | Address: Subang | Sport: Tennis
+Name: Slavko Sanjay | Password: ss4njay | ID: ST005 | Phone Number: 01123234544 | Address: Bangsar | Sport: Cricket
+Name: Mikayla Arif | Password: m@rif | ID: ST006 | Phone Number: 0173778242 | Address: Bangsar | Sport: Swimming
+Name: Jade Hwan | Password: fluffy206 | ID: ST007 | Phone Number: 0126728459 | Address: Ampang | Sport: Table Tennis
+Name: Quinn Myra | Password: queenM | ID: ST008 | Phone Number: 0126467889 | Address: Bukit Jalil | Sport: Gymnastics
+Name: Terry Darell | Password: tdizzle08 | ID: ST009 | Phone Number: 0127976746 | Address: Hartamas | Sport: Basketball
+Name: Marcus Patton | Password: ilovesports | ID: ST010 | Phone Number: 0112478346 | Address: Subang | Sport: Swimming

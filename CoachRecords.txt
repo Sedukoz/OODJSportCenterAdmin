@@ -1,0 +1,10 @@
+ID: CH201 // Name: Zharif Rajab // Date Joined: 14/09/2005 // Hourly Pay Rate: 300 // Address: Bukit Jalil // Phone: 0196553628 // Sport: Football // Ratings: 0 // Date Terminated: 01/05/2022 //
+ID: CH202 // Name: Ali Malik // Date Joined: 05/02/2002 // Hourly Pay Rate: 450 // Address: Bukit Bintang // Phone: 011366985 | Sport: Archery // Coach Rating: 0 |
+ID: CH203 // Name: Musa Khan // Date Joined: 06/08/2006 // Hourly Pay Rate: 350 // Address: Bukit Jalil // Phone: 0133226498 | Sport: Swimming // Coach Rating: 3 |
+ID: CH204 // Name: Duncan Edwadrs // Date Joined: 15/09/1999 // Hourly Pay Rate: 100 // Address: Bangsar // Phone: 0136994452 | Sport: Badminton // Coach Rating: 0 |
+ID: CH205 // Name: John Silver // Date Joined: 17/04/2015 // Hourly Pay Rate: 500 // Address: Taman Sa // Phone: 0164485792 | Sport: Gymnastics // Coach Rating: 0 |
+ID: CH206 // Name: Luke Alistar // Date Joined: 07/09/2006 // Hourly Pay Rate: 150 // Address: Hartamas // Phone: 0133655299 // Sport: Volleyball // Coach Rating: 0 |
+ID: CH207 // Name: Donald Ross // Date Joined: 04/03/1998 // Hourly Pay Rate: 200 // Address: Damansara // Phone: 0111224694 | Sport: Basketball // Coach Rating: 0 |
+ID: CH208 // Name: Ranjit Singh // Date Joined: 19/11/2007 // Hourly Pay Rate: 250 // Address: KLCC // Phone: 0199866497 | Sport: Cricket // Coach Rating: 0 |
+ID: CH209 // Name: Henry Mack // Date Joined: 25/09/2006 // Hourly Pay Rate: 450 // Address: Bukit Bintang // Phone: 0166329465 | Sport: Tennis // Coach Rating: 0 |
+ID: CH210 // Name: Ashley Jenckins // Date Joined: 04/08/2009 // Hourly Pay Rate: 100 // Address: Lucky Garden // Phone: 0113664958 | Sport: Table Tennis // Coach Rating: 0 |
